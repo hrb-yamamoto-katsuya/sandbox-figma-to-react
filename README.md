@@ -8,5 +8,5 @@ FigmaからReactのプロトタイプを生成できるか試す
 - animaはexportでぶっ壊れる
 - pagedrawは開発ストップしてOSSになったけど、OSSがメンテされて無くて未来ない
   - https://pagedraw.io/ Pagedraw is shutting down and going Open Source
-- figma to HTMLは吐き出されない
+- figma to HTMLはインスタンスが吐き出されない
   - https://www.figma.com/community/plugin/851183094275736358/Figma-to-HTML
